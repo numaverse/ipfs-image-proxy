@@ -1,0 +1,22 @@
+{
+  "name": "js-ipfs-pics",
+  "version": "0.0.1",
+  "description": "A simple node.js server for resizing IPFS images.",
+  "main": "index.js",
+  "author": "Hank Stoever",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.18.1",
+    "nodemon": "^1.17.1"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-winston": "^2.5.0",
+    "express.js": "^1.0.0",
+    "morgan": "^1.9.0",
+    "request": "^2.83.0",
+    "request-promise-native": "^1.0.5",
+    "sharp": "^0.19.1",
+    "winston": "^2.4.0"
+  }
+}
